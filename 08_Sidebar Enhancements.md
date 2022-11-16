@@ -1,6 +1,8 @@
 # Sidebar Enhancements
 - 사이드바의 기능을 향상시켜주는 패키지
+
 참고 https://github.com/titoBouzout/SideBarEnhancements
+
 # f12
 - F12 키를 사용하면 브라우저에서 현재 파일을 열 수 있습니다.
 - 절대 경로 사용 "Project -> Edit Projects Preview URLs"
