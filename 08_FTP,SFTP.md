@@ -31,8 +31,8 @@ settings : 설치방법
 # 추가기능
 1. diff remote file : 해당 파일이 로컬과 서버에서 어느부분이 수정되었는지(다른지) 알려줌
 2. sync local(로컬) -> remote(서버) : 로컬을 기준으로 서버의 내용을 바꾼다
-2-1. sync remote -> local : 반대
-2-2. sync both diretion : 둘다 같게 만든다
+2. sync remote -> local : 반대
+2. sync both diretion : 둘다 같게 만든다
 3. browse remote : 파일들의 리스트를 보여주고 원격 작업이 가능 
-3-1. up a folder : 현재 디렉토리의 부모 디렉토리로 이동
-3-2. folder actions : 현재 디렉토리에서의 어떠한 명령을 실행시킬 수 있음
+3. up a folder : 현재 디렉토리의 부모 디렉토리로 이동
+3. folder actions : 현재 디렉토리에서의 어떠한 명령을 실행시킬 수 있음
